@@ -1,6 +1,10 @@
-## Welcome to My Branch!
+## FairVoice: An Equitable Audio Deepfake Detector
 
-Hello there! Thanks for stopping by. This is the working branch for my contributions to our capstone project. Below you'll find a quick guide to help you navigate the key folders and understand what's inside.
+Welcome to **FairVoice**, a collaborative research and development project focused on equitable audio deepfake detection. This project aims to address challenges in detecting manipulated audio in a way that is fair and equitable. 
+
+This repository contains my contributions to the project, which is part of a larger team effort. You can find the original project repository [here](https://github.com/madfields17/Capstone_2025).
+
+Below is a breakdown of the key folders and their contents, specific to my contributions.
 
 ## 📂 Folder Breakdown
 
