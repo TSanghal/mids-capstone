@@ -1,6 +1,6 @@
 ## FairVoice: An Equitable Audio Deepfake Detector
 
-Welcome to **FairVoice**, a collaborative research and development project focused on equitable audio deepfake detection. This project aims to address challenges in detecting manipulated audio in a way that is fair and equitable. 
+Welcome to **FairVoice**, a collaborative research and development project focused on equitable audio deepfake detection. This project aims to address challenges in detecting manipulated audio in a way that is fair across diverse accent categories and genders. 
 
 This repository contains my contributions to the project, which is part of a larger team effort. You can find the original project repository [here](https://github.com/madfields17/Capstone_2025).
 
